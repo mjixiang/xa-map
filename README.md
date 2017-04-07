@@ -1,4 +1,4 @@
 vue leafletjs
 
 
-example: https:mjixiang.github.io/xa-map/example
+example: https://mjixiang.github.io/xa-map/example
